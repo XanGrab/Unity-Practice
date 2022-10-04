@@ -1,0 +1,13 @@
+.FirstButton {
+    height: 59px;
+    left: 50%;
+    top: 50%;
+    right: auto;
+    width: 100px;
+    -unity-text-align: middle-center;
+    white-space: normal;
+    bottom: auto;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(168, 45, 45, 255);
+}

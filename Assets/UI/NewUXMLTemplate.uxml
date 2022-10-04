@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/FirstButton.uss?fileID=7433441132597879392&amp;guid=81bda1efed0371ed69b73f99e1456035&amp;type=3#FirstButton" />
+    <Style src="project://database/Assets/UI/HelloButton.uss?fileID=7433441132597879392&amp;guid=6fcef88b8f6fa27dd84e1dc2754b9f24&amp;type=3#HelloButton" />
+    <ui:VisualElement style="height: 213px;">
+        <ui:Button text="Hello!" display-tooltip-when-elided="true" name="GreenButton" class="My-Button Hello-Button Hello-Button-2 HelloButton" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" class="Hello-Button" />
+    </ui:VisualElement>
+    <ui:Scroller high-value="100" direction="Horizontal" value="42" style="flex-direction: row-reverse; align-items: auto; justify-content: flex-end;" />
+</ui:UXML>
