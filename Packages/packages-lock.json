@@ -263,6 +263,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.xandergrab.base3d-charctrl": {
+      "version": "file:com.xandergrab.base3D-char-ctrl",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.inputsystem": "1.4.1",
+        "com.unity.cinemachine": "2.8.0"
+      }
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

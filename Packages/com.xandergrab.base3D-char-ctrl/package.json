@@ -1,0 +1,21 @@
+{
+  "name": "com.xandergrab.base3d-charctrl",
+  "version": "1.0.0",
+  "displayName": "Base 3D Character Controller",
+  "description": "A simple base for a character controller",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.1",
+    "com.unity.cinemachine": "2.8.0"
+  },
+  "keywords": [
+    "utility",
+    "character",
+    "controller"
+  ],
+  "author": {
+    "name": "Xander Grabowski",
+    "email": "sunbird.grabowski@gmail.com",
+    "url": "https://xandergrabowski.com"
+  }
+}
